@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/https//VirginiaWanjiru.github.io/ReactPortfolio/static/css/main.6758b76a.css",
+    "main.js": "/https//VirginiaWanjiru.github.io/ReactPortfolio/static/js/main.da330b1e.js",
+    "static/media/bg1.jpg": "/https//VirginiaWanjiru.github.io/ReactPortfolio/static/media/bg1.2f11306ae9d063b57791.jpg",
+    "index.html": "/https//VirginiaWanjiru.github.io/ReactPortfolio/index.html",
+    "main.6758b76a.css.map": "/https//VirginiaWanjiru.github.io/ReactPortfolio/static/css/main.6758b76a.css.map",
+    "main.da330b1e.js.map": "/https//VirginiaWanjiru.github.io/ReactPortfolio/static/js/main.da330b1e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6758b76a.css",
+    "static/js/main.da330b1e.js"
+  ]
+}
