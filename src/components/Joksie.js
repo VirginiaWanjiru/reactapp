@@ -34,7 +34,7 @@ const Joksie = () => {
         <p>Loading joke...</p>
       ) : (
         <div>
-          <h2>Chuck Norris Joke</h2>
+          <h2>Life is all about jokes , how about these 😂😂😂:</h2>
           <p>{joke}</p>
         </div>
       )}
